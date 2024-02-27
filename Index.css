@@ -237,4 +237,36 @@ aside{
   margin: 0px 10px;
   /* gap: 10px; */
 }
+/* next */
+
+/* .popular-albums{
+  margin: 50px 0px 20px 90px;
+} */
+
+.albums{
+  padding: 20px;
+  background-color: #0f1539;
+  margin: 40px 0px 20px 70px;
+  display: flex;  
+  justify-content: space-evenly;
+}
+
+.albums img{
+  /* margin-right: 10px; */
+  height: 75px;
+  width: 75px;
+  border-radius: 50%;
+}
+
+/* .station-img{
+  border-radius: 0%;
+} */
+
+.album{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0px 10px;
+  /* gap: 10px; */
+}
 
