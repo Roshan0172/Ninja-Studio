@@ -237,11 +237,10 @@ aside{
   margin: 0px 10px;
   /* gap: 10px; */
 }
-/* next */
 
-/* .popular-albums{
-  margin: 50px 0px 20px 90px;
-} */
+.artist p{
+  font-size: 14px;
+}
 
 .albums{
   padding: 20px;
@@ -252,21 +251,20 @@ aside{
 }
 
 .albums img{
-  /* margin-right: 10px; */
   height: 75px;
   width: 75px;
   border-radius: 50%;
 }
 
-/* .station-img{
-  border-radius: 0%;
-} */
 
 .album{
   display: flex;
   flex-direction: column;
   align-items: center;
   margin: 0px 10px;
-  /* gap: 10px; */
+}
+
+.album i{
+  font-size: 70px;
 }
 
